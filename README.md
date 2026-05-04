@@ -14,7 +14,7 @@ Focused on building practical products, improving performance, and automating en
 - Gpaddy Technology (Jan 2016 - Dec 2017), Mobile Engineer  
   Contributed to mobile application development, delivering assigned features with quality and on schedule.
 
-## Selected Projects
+## Side Projects
 
 - Briky Capital Dapp (Oct 2024 - Dec 2025), Mobile Leader  
   Built a decentralized app for real estate asset tokenization and trading, designed React Native architecture for on-chain workflows, implemented secure smart contract interaction and wallet signing flows, and led a team of 3 engineers.
